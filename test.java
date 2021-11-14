@@ -1,5 +1,5 @@
 public class Test {
-    public static void main (String[] args){
-        System.out.println("Second push");
+    public static void main(String[] args) {
+        System.out.println("Third push");
     }
 }
